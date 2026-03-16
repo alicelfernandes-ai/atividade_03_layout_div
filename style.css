@@ -16,6 +16,8 @@ body{
     background-color: rgb(0, 128, 119);
     width: 660px;
     margin: 0 auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
 
 }
 
@@ -32,4 +34,40 @@ body{
 .tamanho{
     padding-right: 279px;
     
+}
+
+.esticar {
+    padding-bottom: 400px;
+
+}
+
+.alongar {
+    padding-right: 350px;
+}
+
+.esticar3{
+    padding-bottom: 200px;
+}
+
+.tamanho5{
+    width: 190%;
+}
+.esticar5{
+    padding-bottom: 200px;
+}
+
+.esticar6{
+    padding-bottom: 300px;
+}
+
+.tamanho7{
+    width: 200px;
+}
+
+.esticar_15{
+    padding-bottom: 290px;
+}
+
+.esticar15{
+    padding-top: 123%;
 }
